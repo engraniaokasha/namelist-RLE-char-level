@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1519604550 source:c:\users\rana\desktop\comprission\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
